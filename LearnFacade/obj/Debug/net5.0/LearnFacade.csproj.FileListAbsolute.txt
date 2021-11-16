@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\LearnFacade.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\LearnFacade.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\LearnFacade.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\LearnFacade.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\LearnFacade.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\ref\LearnFacade.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\bin\Debug\net5.0\LearnFacade.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\ref\LearnFacade.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnFacade\obj\Debug\net5.0\LearnFacade.genruntimeconfig.cache
