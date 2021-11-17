@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\LearnBuilder.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\LearnBuilder.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\LearnBuilder.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\LearnBuilder.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\LearnBuilder.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\ref\LearnBuilder.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\bin\Debug\net5.0\LearnBuilder.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\ref\LearnBuilder.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnBuilder\obj\Debug\net5.0\LearnBuilder.genruntimeconfig.cache
