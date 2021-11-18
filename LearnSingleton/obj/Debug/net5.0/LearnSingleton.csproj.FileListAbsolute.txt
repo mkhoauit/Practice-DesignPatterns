@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\LearnSingleton.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\LearnSingleton.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\LearnSingleton.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\LearnSingleton.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\LearnSingleton.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\ref\LearnSingleton.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\bin\Debug\net5.0\LearnSingleton.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\ref\LearnSingleton.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnSingleton\obj\Debug\net5.0\LearnSingleton.genruntimeconfig.cache
