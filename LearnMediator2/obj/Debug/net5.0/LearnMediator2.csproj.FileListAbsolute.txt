@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\LearnMediator2.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\LearnMediator2.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\LearnMediator2.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\LearnMediator2.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\LearnMediator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\ref\LearnMediator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\bin\Debug\net5.0\LearnMediator2.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\ref\LearnMediator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMediator2\obj\Debug\net5.0\LearnMediator2.genruntimeconfig.cache
