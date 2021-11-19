@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\PracticeCommand.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\PracticeCommand.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\PracticeCommand.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\PracticeCommand.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\PracticeCommand.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\ref\PracticeCommand.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\bin\Debug\net5.0\PracticeCommand.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\ref\PracticeCommand.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeCommand\obj\Debug\net5.0\PracticeCommand.genruntimeconfig.cache
