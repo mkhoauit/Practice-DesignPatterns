@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\PracticeChainOfResp.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\PracticeChainOfResp.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\PracticeChainOfResp.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\PracticeChainOfResp.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\PracticeChainOfResp.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\ref\PracticeChainOfResp.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\bin\Debug\net5.0\PracticeChainOfResp.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\ref\PracticeChainOfResp.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\PracticeChainOfResp\obj\Debug\net5.0\PracticeChainOfResp.genruntimeconfig.cache
