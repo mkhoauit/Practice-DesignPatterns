@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\LearnStrategy.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\LearnStrategy.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\LearnStrategy.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\LearnStrategy.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\LearnStrategy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\ref\LearnStrategy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\bin\Debug\net5.0\LearnStrategy.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\ref\LearnStrategy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnStrategy\obj\Debug\net5.0\LearnStrategy.genruntimeconfig.cache
