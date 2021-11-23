@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\LearnTemplateMethod.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\LearnTemplateMethod.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\LearnTemplateMethod.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\LearnTemplateMethod.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\LearnTemplateMethod.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\ref\LearnTemplateMethod.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\bin\Debug\net5.0\LearnTemplateMethod.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\ref\LearnTemplateMethod.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnTemplateMethod\obj\Debug\net5.0\LearnTemplateMethod.genruntimeconfig.cache
